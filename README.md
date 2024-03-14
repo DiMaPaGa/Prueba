@@ -9,3 +9,4 @@ Cuando queramos que un cambio que hayamos hecho sea definitivo primero debe hace
 Entonces el resto del equipo observa y da un feedback de esos cambios y se decide si se unen esos cambios a la Rama principal
 LA RAMA PRINCIPAL NO SE TOCA (main branch)
 Acabamos de editar este documento el 14 marzo de 2024.
+Cambios desde Github ahora
